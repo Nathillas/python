@@ -117,7 +117,7 @@
 
 ---
 
-### 6. **Diccionarios**
+### (6. **Diccionarios**)
 
    - **¿Qué son los diccionarios?** Son como una agenda telefónica: tienes un "nombre" (clave) y el "número de teléfono" (valor) asociado a ese nombre.
    - **Cómo funcionan**: En lugar de tener solo un número o palabra como en una lista, cada elemento del diccionario tiene una clave que usas para buscar el valor.
