@@ -116,5 +116,3 @@
        # Esto da error porque las tuplas no se pueden cambiar
        # coordenadas[0] = 15.0
        ```
-
-¡Espero que esto lo haga más fácil y claro!
