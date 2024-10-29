@@ -11,7 +11,7 @@
 
 ## Índice
 
-### 1. [Variables y Tipos de Datos](#1-Variables-y-Tipos-de-Datos)
+### 1. [Variables y Tipos de Datos](https://github.com/Nathillas/python/blob/main/README.md#1-variables-y-tipos-de-datos-1)
 ### 2. [Operadores Básicos](#2-Operadores-Básicos)
 ### 3. [Estructuras de Control (Condicionales)](#3-Estructuras-de-Control-Condicionales)
 ### 4. [Bucles (`for` y `while`) en Python](#4-Bucles-For-y-While-en-Python)
