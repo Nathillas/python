@@ -1,7 +1,6 @@
 # PYTHON BÁSICO
 
 
-Voy a simplificarlo aún más y agregar más explicaciones básicas para cada punto. Aquí va:
 
 ---
 
