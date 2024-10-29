@@ -1,11 +1,5 @@
 # python
-Python Básico
 
-
-
-¡Claro! Aquí tienes una explicación más simple, paso a paso, con ejemplos para ayudarte a entender cada concepto de forma fácil:
-
----
 
 ### 1. **Diccionarios en Python**
    - **¿Qué es un diccionario?**: Imagina una lista de contactos donde cada persona tiene un número de teléfono. En lugar de solo nombres, el diccionario en Python guarda datos en pares, como "nombre: teléfono". Así tienes una “clave” (nombre) y un “valor” (teléfono) para buscar o cambiar datos rápidamente.
