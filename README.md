@@ -13,10 +13,10 @@
 
 ### 1. [Variables y Tipos de Datos](https://github.com/Nathillas/python/blob/main/README.md#1-variables-y-tipos-de-datos-1)
 ### 2. [Operadores Básicos](https://github.com/Nathillas/python/blob/main/README.md#2-operadores-b%C3%A1sicos-1)
-### 3. [Estructuras de Control (Condicionales)](#3-Estructuras-de-Control-Condicionales)
-### 4. [Bucles (`for` y `while`) en Python](#4-Bucles-For-y-While-en-Python)
-### 5. [Listas y Tuplas](#5-Listas-y-Tuplas)
-### 6. [Diccionarios](#6-Diccionarios)
+### 3. [Estructuras de Control (Condicionales)](https://github.com/Nathillas/python/blob/main/README.md#3-estructuras-de-control-condicionales-1)
+### 4. [Bucles (`for` y `while`) en Python](https://github.com/Nathillas/python/edit/main/README.md#4-bucles-for-y-while-en-python-1)
+### 5. [Listas y Tuplas](https://github.com/Nathillas/python/edit/main/README.md#5-listas-y-tuplas-1)
+### 6. [Diccionarios](https://github.com/Nathillas/python/edit/main/README.md#6-diccionarios-1)
 
 ---
 
