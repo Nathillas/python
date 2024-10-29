@@ -88,4 +88,4 @@
 
 ---
 
-Este documento está simplificado y organizado para que puedas entender cada concepto paso a paso, desde lo más sencillo (variables) hasta lo más complejo (diccionarios).
+
