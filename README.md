@@ -1,5 +1,6 @@
 # PYTHON BÁSICO
 
+![imagen-python](/img/imagen-python.webp)
 
 ---
 
