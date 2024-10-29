@@ -9,12 +9,14 @@
 
 ## Índice
 
-### 1. [Variables y Tipos de Datos](#variables-y-tipos-de-datos)
-### 2. [Operadores Básicos](#operadores-básicos)
-### 3. [Estructuras de Control (Condicionales)](#estructuras-de-control-condicionales)
-### 4. [Bucles (`for` y `while`) en Python](#bucles-for-y-while-en-python)
-### 5. [Listas y Tuplas](#listas-y-tuplas)
-### 6. [Diccionarios](#diccionarios)
+## Índice
+
+### 1. [Variables y Tipos de Datos](#1-variables-y-tipos-de-datos)
+### 2. [Operadores Básicos](#2-operadores-básicos)
+### 3. [Estructuras de Control (Condicionales)](#3-estructuras-de-control-condicionales)
+### 4. [Bucles (`for` y `while`) en Python](#4-bucles-for-y-while-en-python)
+### 5. [Listas y Tuplas](#5-listas-y-tuplas)
+### 6. [Diccionarios](#6-diccionarios)
 
 ---
 
